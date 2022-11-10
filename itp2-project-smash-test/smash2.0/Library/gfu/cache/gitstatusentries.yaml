@@ -1,0 +1,1079 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2022-11-03T11:22:07.986+01:00
+  initializedAtString: 2022-11-03T09:27:19.320+01:00
+  entries:
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+    projectPath: gametest uwu\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+    projectPath: gametest uwu\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+    projectPath: gametest uwu\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    projectPath: gametest uwu\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\MonoBleedingEdge\etc\mono\2.0\machine.config
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\MonoBleedingEdge\etc\mono\2.0\machine.config
+    projectPath: gametest uwu\MonoBleedingEdge\etc\mono\2.0\machine.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\MonoBleedingEdge\etc\mono\2.0\settings.map
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\MonoBleedingEdge\etc\mono\2.0\settings.map
+    projectPath: gametest uwu\MonoBleedingEdge\etc\mono\2.0\settings.map
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\MonoBleedingEdge\etc\mono\2.0\web.config
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\MonoBleedingEdge\etc\mono\2.0\web.config
+    projectPath: gametest uwu\MonoBleedingEdge\etc\mono\2.0\web.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+    projectPath: gametest uwu\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+    projectPath: gametest uwu\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\MonoBleedingEdge\etc\mono\4.0\machine.config
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\MonoBleedingEdge\etc\mono\4.0\machine.config
+    projectPath: gametest uwu\MonoBleedingEdge\etc\mono\4.0\machine.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\MonoBleedingEdge\etc\mono\4.0\settings.map
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\MonoBleedingEdge\etc\mono\4.0\settings.map
+    projectPath: gametest uwu\MonoBleedingEdge\etc\mono\4.0\settings.map
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\MonoBleedingEdge\etc\mono\4.0\web.config
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\MonoBleedingEdge\etc\mono\4.0\web.config
+    projectPath: gametest uwu\MonoBleedingEdge\etc\mono\4.0\web.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+    projectPath: gametest uwu\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+    projectPath: gametest uwu\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\MonoBleedingEdge\etc\mono\4.5\machine.config
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\MonoBleedingEdge\etc\mono\4.5\machine.config
+    projectPath: gametest uwu\MonoBleedingEdge\etc\mono\4.5\machine.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\MonoBleedingEdge\etc\mono\4.5\settings.map
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\MonoBleedingEdge\etc\mono\4.5\settings.map
+    projectPath: gametest uwu\MonoBleedingEdge\etc\mono\4.5\settings.map
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\MonoBleedingEdge\etc\mono\4.5\web.config
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\MonoBleedingEdge\etc\mono\4.5\web.config
+    projectPath: gametest uwu\MonoBleedingEdge\etc\mono\4.5\web.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\MonoBleedingEdge\etc\mono\browscap.ini
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\MonoBleedingEdge\etc\mono\browscap.ini
+    projectPath: gametest uwu\MonoBleedingEdge\etc\mono\browscap.ini
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\MonoBleedingEdge\etc\mono\config
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\MonoBleedingEdge\etc\mono\config
+    projectPath: gametest uwu\MonoBleedingEdge\etc\mono\config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\MonoBleedingEdge\etc\mono\mconfig\config.xml
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\MonoBleedingEdge\etc\mono\mconfig\config.xml
+    projectPath: gametest uwu\MonoBleedingEdge\etc\mono\mconfig\config.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash.exe
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash.exe
+    projectPath: gametest uwu\smash.exe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\app.info
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\app.info
+    projectPath: gametest uwu\smash_Data\app.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\boot.config
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\boot.config
+    projectPath: gametest uwu\smash_Data\boot.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\globalgamemanagers
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\globalgamemanagers
+    projectPath: gametest uwu\smash_Data\globalgamemanagers
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\globalgamemanagers.assets
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\globalgamemanagers.assets
+    projectPath: gametest uwu\smash_Data\globalgamemanagers.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\level0
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\level0
+    projectPath: gametest uwu\smash_Data\level0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\level1
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\level1
+    projectPath: gametest uwu\smash_Data\level1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\level2
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\level2
+    projectPath: gametest uwu\smash_Data\level2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\Assembly-CSharp.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\Assembly-CSharp.dll
+    projectPath: gametest uwu\smash_Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\Mono.Security.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\Mono.Security.dll
+    projectPath: gametest uwu\smash_Data\Managed\Mono.Security.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\mscorlib.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\mscorlib.dll
+    projectPath: gametest uwu\smash_Data\Managed\mscorlib.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\netstandard.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\netstandard.dll
+    projectPath: gametest uwu\smash_Data\Managed\netstandard.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\Newtonsoft.Json.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\Newtonsoft.Json.dll
+    projectPath: gametest uwu\smash_Data\Managed\Newtonsoft.Json.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\System.ComponentModel.Composition.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\System.ComponentModel.Composition.dll
+    projectPath: gametest uwu\smash_Data\Managed\System.ComponentModel.Composition.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\System.Configuration.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\System.Configuration.dll
+    projectPath: gametest uwu\smash_Data\Managed\System.Configuration.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\System.Core.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\System.Core.dll
+    projectPath: gametest uwu\smash_Data\Managed\System.Core.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\System.Data.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\System.Data.dll
+    projectPath: gametest uwu\smash_Data\Managed\System.Data.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\System.Diagnostics.StackTrace.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\System.Diagnostics.StackTrace.dll
+    projectPath: gametest uwu\smash_Data\Managed\System.Diagnostics.StackTrace.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\System.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\System.dll
+    projectPath: gametest uwu\smash_Data\Managed\System.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\System.Drawing.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\System.Drawing.dll
+    projectPath: gametest uwu\smash_Data\Managed\System.Drawing.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\System.EnterpriseServices.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\System.EnterpriseServices.dll
+    projectPath: gametest uwu\smash_Data\Managed\System.EnterpriseServices.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\System.Globalization.Extensions.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\System.Globalization.Extensions.dll
+    projectPath: gametest uwu\smash_Data\Managed\System.Globalization.Extensions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\System.IO.Compression.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\System.IO.Compression.dll
+    projectPath: gametest uwu\smash_Data\Managed\System.IO.Compression.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\System.IO.Compression.FileSystem.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\System.IO.Compression.FileSystem.dll
+    projectPath: gametest uwu\smash_Data\Managed\System.IO.Compression.FileSystem.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\System.Net.Http.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\System.Net.Http.dll
+    projectPath: gametest uwu\smash_Data\Managed\System.Net.Http.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\System.Numerics.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\System.Numerics.dll
+    projectPath: gametest uwu\smash_Data\Managed\System.Numerics.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\System.Runtime.Serialization.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\System.Runtime.Serialization.dll
+    projectPath: gametest uwu\smash_Data\Managed\System.Runtime.Serialization.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\System.Runtime.Serialization.Xml.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\System.Runtime.Serialization.Xml.dll
+    projectPath: gametest uwu\smash_Data\Managed\System.Runtime.Serialization.Xml.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\System.ServiceModel.Internals.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\System.ServiceModel.Internals.dll
+    projectPath: gametest uwu\smash_Data\Managed\System.ServiceModel.Internals.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\System.Transactions.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\System.Transactions.dll
+    projectPath: gametest uwu\smash_Data\Managed\System.Transactions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\System.Xml.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\System.Xml.dll
+    projectPath: gametest uwu\smash_Data\Managed\System.Xml.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\System.Xml.Linq.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\System.Xml.Linq.dll
+    projectPath: gametest uwu\smash_Data\Managed\System.Xml.Linq.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\System.Xml.XPath.XDocument.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\System.Xml.XPath.XDocument.dll
+    projectPath: gametest uwu\smash_Data\Managed\System.Xml.XPath.XDocument.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\Unity.2D.Animation.Runtime.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\Unity.2D.Animation.Runtime.dll
+    projectPath: gametest uwu\smash_Data\Managed\Unity.2D.Animation.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+    projectPath: gametest uwu\smash_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\Unity.2D.Common.Runtime.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\Unity.2D.Common.Runtime.dll
+    projectPath: gametest uwu\smash_Data\Managed\Unity.2D.Common.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\Unity.2D.IK.Runtime.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\Unity.2D.IK.Runtime.dll
+    projectPath: gametest uwu\smash_Data\Managed\Unity.2D.IK.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\Unity.2D.PixelPerfect.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\Unity.2D.PixelPerfect.dll
+    projectPath: gametest uwu\smash_Data\Managed\Unity.2D.PixelPerfect.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+    projectPath: gametest uwu\smash_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+    projectPath: gametest uwu\smash_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\Unity.Mathematics.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\Unity.Mathematics.dll
+    projectPath: gametest uwu\smash_Data\Managed\Unity.Mathematics.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\Unity.TextMeshPro.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\Unity.TextMeshPro.dll
+    projectPath: gametest uwu\smash_Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\Unity.Timeline.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\Unity.Timeline.dll
+    projectPath: gametest uwu\smash_Data\Managed\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.AccessibilityModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.AccessibilityModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.AccessibilityModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.AIModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.AIModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.AIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.AndroidJNIModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.AndroidJNIModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.AndroidJNIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.AnimationModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.AnimationModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.AnimationModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.ARModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.ARModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.ARModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.AssetBundleModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.AssetBundleModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.AssetBundleModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.AudioModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.AudioModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.AudioModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.ClothModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.ClothModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.ClothModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.ClusterInputModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.ClusterInputModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.ClusterInputModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.CoreModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.CoreModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.CoreModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.CrashReportingModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.CrashReportingModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.CrashReportingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.DirectorModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.DirectorModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.DirectorModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.DSPGraphModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.DSPGraphModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.DSPGraphModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.GameCenterModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.GameCenterModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.GameCenterModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.GIModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.GIModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.GIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.GridModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.GridModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.GridModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.HotReloadModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.HotReloadModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.HotReloadModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.ImageConversionModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.ImageConversionModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.ImageConversionModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.IMGUIModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.IMGUIModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.IMGUIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.InputLegacyModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.InputLegacyModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.InputLegacyModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.InputModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.InputModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.InputModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.LocalizationModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.LocalizationModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.LocalizationModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.Physics2DModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.Physics2DModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.Physics2DModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.PhysicsModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.PhysicsModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.PhysicsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.ProfilerModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.ProfilerModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.ProfilerModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.StreamingModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.StreamingModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.StreamingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.SubstanceModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.SubstanceModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.SubstanceModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.SubsystemsModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.SubsystemsModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.SubsystemsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.TerrainModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.TerrainModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.TerrainModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.TextCoreModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.TextCoreModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.TextCoreModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.TextRenderingModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.TextRenderingModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.TextRenderingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.TilemapModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.TilemapModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.TilemapModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.TLSModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.TLSModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.TLSModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.UI.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.UI.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.UIElementsModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.UIElementsModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.UIElementsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.UIElementsNativeModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.UIElementsNativeModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.UIElementsNativeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.UIModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.UIModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.UIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.UmbraModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.UmbraModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.UmbraModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.UNETModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.UNETModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.UNETModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.UnityConnectModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.UnityConnectModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.UnityConnectModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.UnityCurlModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.UnityCurlModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.UnityCurlModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.VehiclesModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.VehiclesModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.VehiclesModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.VFXModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.VFXModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.VFXModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.VideoModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.VideoModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.VideoModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.VirtualTexturingModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.VirtualTexturingModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.VirtualTexturingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.VRModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.VRModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.VRModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.WindModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.WindModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.WindModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Managed\UnityEngine.XRModule.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Managed\UnityEngine.XRModule.dll
+    projectPath: gametest uwu\smash_Data\Managed\UnityEngine.XRModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\resources.assets
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\resources.assets
+    projectPath: gametest uwu\smash_Data\resources.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\resources.assets.resS
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\resources.assets.resS
+    projectPath: gametest uwu\smash_Data\resources.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Resources\unity
+      default resources
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Resources\unity default resources
+    projectPath: gametest uwu\smash_Data\Resources\unity default resources
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\Resources\unity_builtin_extra
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\Resources\unity_builtin_extra
+    projectPath: gametest uwu\smash_Data\Resources\unity_builtin_extra
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\RuntimeInitializeOnLoads.json
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\RuntimeInitializeOnLoads.json
+    projectPath: gametest uwu\smash_Data\RuntimeInitializeOnLoads.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\ScriptingAssemblies.json
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\ScriptingAssemblies.json
+    projectPath: gametest uwu\smash_Data\ScriptingAssemblies.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\sharedassets0.assets
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\sharedassets0.assets
+    projectPath: gametest uwu\smash_Data\sharedassets0.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\sharedassets0.assets.resS
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\sharedassets0.assets.resS
+    projectPath: gametest uwu\smash_Data\sharedassets0.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\sharedassets1.assets
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\sharedassets1.assets
+    projectPath: gametest uwu\smash_Data\sharedassets1.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\sharedassets1.assets.resS
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\sharedassets1.assets.resS
+    projectPath: gametest uwu\smash_Data\sharedassets1.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\smash_Data\sharedassets2.assets
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\smash_Data\sharedassets2.assets
+    projectPath: gametest uwu\smash_Data\sharedassets2.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\UnityCrashHandler64.exe
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\UnityCrashHandler64.exe
+    projectPath: gametest uwu\UnityCrashHandler64.exe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\gametest uwu\UnityPlayer.dll
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\gametest
+      uwu\UnityPlayer.dll
+    projectPath: gametest uwu\UnityPlayer.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\Logs\AssetImportWorker0.log
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: itp2-project-smash-test\smash2.0\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: itp2-project-smash-test\smash2.0\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: itp2-project-smash-test\smash2.0\ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: itp2-project-smash-test\smash2.0\ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\mawlo\Documents\GitHub\smash2.0\itp2-project-smash-test\smash2.0\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
