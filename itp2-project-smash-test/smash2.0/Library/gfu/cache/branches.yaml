@@ -13,11 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-11-03T11:11:30.194+01:00
-  initializedAtString: 2022-11-03T09:48:58.765+01:00
-  localBranches:
-  - name: main
-    tracking: origin/main
+  lastUpdatedAtString: 2022-11-10T11:01:37.608+01:00
+  initializedAtString: 2022-11-10T10:22:52.484+01:00
+  localBranches: []
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
@@ -32,14 +30,8 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys:
-    - main
-    values:
-    - name: main
-      remote:
-        name: origin
-        url: https://github.com/unterwes/smash.git
-      trackingBranch: main
+    keys: []
+    values: []
   remoteConfigBranches:
     keys:
     - origin

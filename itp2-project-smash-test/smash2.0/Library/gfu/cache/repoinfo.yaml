@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2022-11-03T11:11:30.210+01:00
-  initializedAtString: 2022-11-03T09:27:18.866+01:00
+  lastUpdatedAtString: 2022-11-10T11:18:10.209+01:00
+  initializedAtString: 2022-11-10T10:01:22.467+01:00
   currentGitRemote:
     name: origin
     url: https://github.com/unterwes/smash.git
