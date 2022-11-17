@@ -1,2 +1,0 @@
-# smash
-Untiy uwu
