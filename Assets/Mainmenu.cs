@@ -25,6 +25,11 @@ public void Options ()
   Debug.Log ("QUIT!");
   Application.Quit();
  }
+
+ public void back () 
+ {
+  SceneManager.LoadScene (SceneManager.GetActiveScene ().buildIndex - 3);
+ }
   
 }
 
