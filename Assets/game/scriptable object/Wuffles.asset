@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc1638853352942478f068c05f55e410, type: 3}
   m_Name: Wuffles
   m_EditorClassIdentifier: 
-  artwork: {fileID: 21300000, guid: 0de54a4f9bae99f478a3b2c79867a1ff, type: 3}
+  artwork: {fileID: 21300000, guid: 22a0933af58bacb49adc039be7f938b1, type: 3}
   coins: 3
   attack: 2
   health: 3

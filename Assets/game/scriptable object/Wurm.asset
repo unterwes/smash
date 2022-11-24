@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc1638853352942478f068c05f55e410, type: 3}
   m_Name: Wurm
   m_EditorClassIdentifier: 
-  artwork: {fileID: 21300000, guid: 9688d711bd1a5134dab853366b9ae2cf, type: 3}
+  artwork: {fileID: 21300000, guid: 91dbe845f7d2d9f4d97f5d24e68558e7, type: 3}
   coins: 3
   attack: 1
   health: 1

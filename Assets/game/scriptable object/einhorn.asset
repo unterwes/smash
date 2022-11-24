@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bc1638853352942478f068c05f55e410, type: 3}
-  m_Name: croco
+  m_Name: einhorn
   m_EditorClassIdentifier: 
-  artwork: {fileID: 21300000, guid: 96032455f74ce224183d5eee97cbdd8d, type: 3}
+  artwork: {fileID: 21300000, guid: d742958e7ea2807429be910c4ff47b1d, type: 3}
   coins: 3
-  attack: 2
-  health: 2
+  attack: 4
+  health: 3

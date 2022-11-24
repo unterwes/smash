@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc1638853352942478f068c05f55e410, type: 3}
   m_Name: owl
   m_EditorClassIdentifier: 
-  artwork: {fileID: 21300000, guid: fa98aaa976ea7fe4da61a41c51773335, type: 3}
+  artwork: {fileID: 21300000, guid: 953f0ee3d9251274cb6f1231fdb324b5, type: 3}
   coins: 3
   attack: 5
   health: 1

@@ -14,7 +14,7 @@ public class coins : MonoBehaviour
    
     void Start()
     {
-       money = 10;  
+       money = 11;  
     }
 
     // Update is called once per frame

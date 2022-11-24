@@ -868,9 +868,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1306048757}
-        m_TargetAssemblyTypeName: goback, Assembly-CSharp
-        m_MethodName: backFromGame
+      - m_Target: {fileID: 1306048758}
+        m_TargetAssemblyTypeName: TestingQuestionDialog, Assembly-CSharp
+        m_MethodName: quitMessage
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -997,7 +997,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 10
+  m_Text: 11
 --- !u!1 &1016058848
 GameObject:
   m_ObjectHideFlags: 0
@@ -1382,7 +1382,7 @@ GameObject:
   - component: {fileID: 1306048753}
   - component: {fileID: 1306048756}
   - component: {fileID: 1306048755}
-  - component: {fileID: 1306048757}
+  - component: {fileID: 1306048758}
   m_Layer: 0
   m_Name: Panel
   m_TagString: Untagged
@@ -1449,7 +1449,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1306048752}
   m_CullTransparentMesh: 1
---- !u!114 &1306048757
+--- !u!114 &1306048758
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1458,7 +1458,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1306048752}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f66b84651c308264392ea4695795d94c, type: 3}
+  m_Script: {fileID: 11500000, guid: 3210fd93098cbf94396ef7e82a0e9854, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1409418343

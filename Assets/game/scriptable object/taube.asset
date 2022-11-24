@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc1638853352942478f068c05f55e410, type: 3}
   m_Name: taube
   m_EditorClassIdentifier: 
-  artwork: {fileID: 21300000, guid: b0e4dc0da2160cc4ab3bd6f2e22217f3, type: 3}
+  artwork: {fileID: 21300000, guid: 3785999a17dc7514491fba6c5a287d14, type: 3}
   coins: 3
   attack: 4
   health: 1
