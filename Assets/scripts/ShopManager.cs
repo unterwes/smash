@@ -7,6 +7,9 @@ using TMPro;
 public class ShopManager : MonoBehaviour
 {
 
+
+
+
 public int coins;
 public int coins2;
 public int coins3;
@@ -96,12 +99,24 @@ public void AddCoins6(){
 }
 
 public void AddCoins7(){
-
-    coins7 = price - 10 ;
+if(price > 0){
+    coins7 = price - 10;
     price = price - 10;
-    coinUI7.text =  coins7.ToString();
-  //  CheckPurchaseable();
-    
+    coinUI7.text = coins7.ToString();
 
 }
+else {
+
+GameObject.Find("notgenuggelderror").SetActive(false);
 }
+}
+
+}
+
+
+
+
+
+
+
+
